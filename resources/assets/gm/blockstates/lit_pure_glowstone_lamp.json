@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "gm:block/lit_pure_glowstone_lamp" }
+    }
+}
