@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "gm:block/mplant_stage7"
+    }
+}

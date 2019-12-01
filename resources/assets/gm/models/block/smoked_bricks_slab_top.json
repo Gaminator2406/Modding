@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "gm:block/smoked_bricks",
+        "top": "gm:block/smoked_bricks",
+        "side": "gm:block/smoked_bricks"
+    }
+}
