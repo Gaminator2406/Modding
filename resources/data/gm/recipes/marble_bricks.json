@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"BB",
+		"BB"
+	],
+	
+	"key":
+	{
+		"B": {"item": "gm:marble"}
+	},
+	
+	"result":
+	{
+		"item": "gm:marble_bricks",
+		"count": 4
+		}
+	
+}

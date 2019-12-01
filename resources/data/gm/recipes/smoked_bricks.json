@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"BB",
+		"BB"
+	],
+	
+	"key":
+	{
+		"B": {"item": "gm:smoked_brick"}
+	},
+	
+	"result":
+	{
+		"item": "gm:smoked_bricks",
+		"count": 4
+		}
+	
+}

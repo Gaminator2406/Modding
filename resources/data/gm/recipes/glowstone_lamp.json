@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" S ",
+		"SGS",
+		" S "
+	],
+	
+	"key":
+	{
+		"G": {"item": "minecraft:glowstone"},
+		"S": {"item": "gm:iron_stick"}
+	},
+	
+	"result":
+	{
+		"item": "gm:glowstone_lamp"
+		}
+}

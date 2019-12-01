@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+        {
+            "item": "gm:pure_glowstone_lamp"
+        },
+        {
+            "item": "minecraft:redstone_torch"
+        }
+    ],
+	
+	"result":
+	{
+		"item": "gm:lit_pure_glowstone_lamp"
+	}
+	
+}

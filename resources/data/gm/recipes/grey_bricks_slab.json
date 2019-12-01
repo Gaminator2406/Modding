@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"BBB"
+	],
+	
+	"key":
+	{
+		"B": {"item": "gm:grey_bricks"}
+	},
+	
+	"result":
+	{
+		"item": "gm:grey_bricks_slab",
+		"count": 6
+		}
+	
+}

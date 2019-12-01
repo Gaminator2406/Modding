@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+        {
+            "item": "gm:weed"
+        },
+        {
+            "item": "minecraft:cookie"
+        }
+    ],
+	
+	"result":
+	{
+		"item": "gm:space_cookie"
+	}
+	
+}
