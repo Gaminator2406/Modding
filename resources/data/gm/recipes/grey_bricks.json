@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"BB",
+		"BB"
+	],
+	
+	"key":
+	{
+		"B": {"item": "gm:grey_brick"}
+	},
+	
+	"result":
+	{
+		"item": "gm:grey_bricks",
+		"count": 4
+		}
+	
+}

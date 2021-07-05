@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "gm:block/marble_bricks",
+        "top": "gm:block/marble_bricks",
+        "side": "gm:block/marble_bricks"
+    }
+}

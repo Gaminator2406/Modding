@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"P"
+	],
+	
+	"key":
+	{
+		"P": {"item": "minecraft:baked_potato"}
+	},
+	
+	"result":
+	{
+		"item": "gm:fries",
+		"count": 3
+		}
+	
+}

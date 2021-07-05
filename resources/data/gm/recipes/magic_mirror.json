@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"IDI",
+		"INI",
+		"ICI"
+	],
+	
+	"key":
+	{
+		"N": {"item": "minecraft:nether_star"},
+		"C": {"item": "minecraft:clock"},
+		"I": {"item": "minecraft:iron_ingot"},
+		"D": {"item": "minecraft:diamond_block"}
+	},
+	
+	"result":
+	{
+		"item": "gm:magic_mirror"
+		}
+	
+}

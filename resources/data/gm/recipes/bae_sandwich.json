@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+        {
+            "item": "gm:fried_egg"
+        },
+        {
+            "item": "gm:cooked_bacon"
+        },
+		{
+            "item": "minecraft:bread"
+        }
+    ],
+	
+	"result":
+	{
+		"item": "gm:bae_sandwich"
+	}
+	
+}

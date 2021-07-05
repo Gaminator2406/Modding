@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G"
+	],
+	
+	"key":
+	{
+		"G": {"item": "minecraft:glowstone"}
+	},
+	
+	"result":
+	{
+		"item": "gm:pure_glowstone"
+		}
+	
+}

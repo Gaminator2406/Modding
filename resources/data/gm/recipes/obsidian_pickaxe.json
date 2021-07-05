@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		" S ",
+		" S "
+	],
+	
+	"key":
+	{
+		"I": {"item": "gm:obsidian_ingot"},
+		"S": {"item": "gm:iron_stick"}
+	},
+	
+	"result":
+	{
+		"item": "gm:obsidian_pickaxe"
+		}
+	
+}

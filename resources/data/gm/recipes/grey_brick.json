@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+        {
+            "item": "minecraft:brick"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ],
+	
+	"result":
+	{
+		"item": "gm:grey_brick",
+		"count": 2
+	}
+	
+}
